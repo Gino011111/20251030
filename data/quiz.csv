@@ -1,0 +1,4 @@
+question,optionA,optionB,optionC,correct
+請問 p5.js 的預載入函數是？,setup(),draw(),preload(),preload()
+哪一個函數每秒會執行多次以產生動畫？,setup(),draw(),preload(),draw()
+p5.js 中用來載入表格資料的函數是？,loadJSON(),loadTable(),loadStrings(),loadTable()
